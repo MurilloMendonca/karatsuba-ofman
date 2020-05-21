@@ -1,0 +1,57 @@
+# depslib dependency file v1.0
+1589729048 source:c:\users\muril\desktop\karatstuba\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<string>
+	<fstream>
+	<windows.h>
+	<random>
+	<limits>
+	"BigIntegerLibrary.hh"
+
+1589489479 c:\users\muril\desktop\karatstuba\bigintegerlibrary.hh
+	"NumberlikeArray.hh"
+	"BigUnsigned.hh"
+	"BigInteger.hh"
+	"BigIntegerAlgorithms.hh"
+	"BigUnsignedInABase.hh"
+	"BigIntegerUtils.hh"
+
+1272659672 c:\users\muril\desktop\karatstuba\numberlikearray.hh
+
+1272659672 c:\users\muril\desktop\karatstuba\bigunsigned.hh
+	"NumberlikeArray.hh"
+
+1589485594 c:\users\muril\desktop\karatstuba\biginteger.hh
+	"BigUnsigned.hh"
+
+1272659672 c:\users\muril\desktop\karatstuba\bigintegeralgorithms.hh
+	"BigInteger.hh"
+
+1272659672 c:\users\muril\desktop\karatstuba\bigunsignedinabase.hh
+	"NumberlikeArray.hh"
+	"BigUnsigned.hh"
+	<string>
+
+1272659672 c:\users\muril\desktop\karatstuba\bigintegerutils.hh
+	"BigInteger.hh"
+	<string>
+	<iostream>
+
+1272659672 source:c:\users\muril\desktop\karatstuba\biginteger.cc
+	"BigInteger.hh"
+
+1272659672 source:c:\users\muril\desktop\karatstuba\bigintegeralgorithms.cc
+	"BigIntegerAlgorithms.hh"
+
+1272659672 source:c:\users\muril\desktop\karatstuba\bigintegerutils.cc
+	"BigIntegerUtils.hh"
+	"BigUnsignedInABase.hh"
+
+1272659672 source:c:\users\muril\desktop\karatstuba\bigunsigned.cc
+	"BigUnsigned.hh"
+
+1272659672 source:c:\users\muril\desktop\karatstuba\bigunsignedinabase.cc
+	"BigUnsignedInABase.hh"
+
